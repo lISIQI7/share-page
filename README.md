@@ -1,17 +1,17 @@
 # share-page
-Language : [English](README.md)
+Language  : [English](README.md)
 
 Web app   : [share-page](https://share-page.streamlit.app)
 
-# Some functions
+# Some Functions
 
-# colorpallet
+# Color Pallet
 
-# ratio
-This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
+# Ratio
+This is a slider that can be adjusted in increments of 0.01.
 
 # Custom Pallet
-You can create your own Color-Pallet.  
+ create a color-pallet.  
 
  
 
