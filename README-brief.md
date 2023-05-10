@@ -6,13 +6,15 @@ That is great.
 
 Language : [English](README.md)  
 
-# Explore entrance
+# some point
 
-# Playground : open it.
+Explore entrance
 
-# Pyxel color Try it.
+Playground : open it.
 
-# pay attention to these points and thank you.
+Pyxel color Try it.
+
+pay attention to these points and thank you.
 
 
 
