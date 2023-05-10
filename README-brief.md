@@ -8,13 +8,12 @@ Language : [English](README.md)
 
 # some point
 
-Explore entrance
+Explore entrance.
 
 Playground : open it.
 
 Pyxel color Try it.
 
-pay attention to these points and thank you.
 
 
 
