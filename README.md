@@ -1,7 +1,7 @@
 # pixelart-converter
-Language : [日本語](README-ja.md)  
+Language : [English](README.md)  
 Fascinating tool to convert images into pixel art!  
-[pixelart-converter](https://pixelart.streamlit.app)
+[pixelart-converter](https://share-page.streamlit.app)
 
 # Basic functions
 ## colorpallet
