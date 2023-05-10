@@ -1,18 +1,28 @@
-# pixelart-converter
-Language : [日本語](README-ja.md)  
-Fascinating tool to convert images into pixel art!  
-[pixelart-converter](https://pixelart.streamlit.app)
+import streamlit as st
+
+st.set_page_config(
+    page_title="share-page",
+    page_icon="🎶",
+    layout="centered",
+    initial_sidebar_state="expanded",
+)
+st.markdown("""
+# share-page
+Language : [English] 
+Fascinating tool to convert images into pixel art!\n
+Playground : [open it](https://tensorspace.org/html/playground/lenet.html).  
+
 
 # Basic functions
 ## colorpallet
 This site converts colors.  
 Select the color palette to use when converting colors.  
-Pyxel is the color used in the library called [Pyxel](https://github.com/kitao/pyxel).  
-![Color pallet](./image/pallet.png)
+Pyxel color  [Try it](https://sophisticated-palette.streamlit.app/).  
+
 
 ## ratio
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
-![Select ratio](./image/ratio.png)
+
 
 ## Custom Pallet
 You can create your own ColorPallet.  
@@ -20,29 +30,21 @@ Enter the colors you want to add to the palette in the table using color codes.
 The colors entered in the table will be displayed on the right side.  
 It is easier to select a color from the color picker above the table, copy the color code, and enter it.  
 Color picker is not supported.
-![Custom pallet](./image/custom.png)
 
-## Tweet
-A button to tweet to Twitter.  
-It does not support attaching images.  
-When attaching an image, please copy the image or download the image and attach it.  
-If you do not turn off the tracker blocker, it may not be displayed.  
+ 
 
 # More Options
 ## Anime Filter
 Add edges.  
-![animefilter_on](./image/anime.png)
-![animefilter_off](./image/anime2.jpg)
+
 
 ## No Color Convert
 Disables the color palette.  
-![no_convert](./image/no_convert.jpg)
 
 
 ## decrease Color
 Decrease color.  
 Basically used with ``No Color Convert``.
-![decrease_color](./image/decrease.jpg)
 
 ## threhsold
 Value of AnimeFilter (edge processing).  
@@ -59,4 +61,4 @@ Generate edges with dots.
 
 # Color Sample
 Displays the colors in the default color palette  
-![color_sample](./image/sample.png)
+""")
