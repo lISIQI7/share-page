@@ -1,7 +1,7 @@
 # share-page
 Language : [English](README.md)
 
-[share-page](https://share-page.streamlit.app)
+Webapp   : [share-page](https://share-page.streamlit.app)
 
 # Some functions
 
