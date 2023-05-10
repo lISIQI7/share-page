@@ -11,7 +11,7 @@ Webapp   : [share-page](https://share-page.streamlit.app)
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
 
 # Custom Pallet
-You can create your own ColorPallet.  
+You can create your own Color-Pallet.  
 
  
 
