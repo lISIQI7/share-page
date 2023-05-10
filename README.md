@@ -22,35 +22,7 @@ It is easier to select a color from the color picker above the table, copy the c
 Color picker is not supported.
 ![Custom pallet](./image/custom.png)
 
-## Tweet
-A button to tweet to Twitter.  
-It does not support attaching images.  
-When attaching an image, please copy the image or download the image and attach it.  
-If you do not turn off the tracker blocker, it may not be displayed.  
 
-# More Options
-## Anime Filter
-Add edges.  
-![animefilter_on](./image/anime.png)
-![animefilter_off](./image/anime2.jpg)
-
-## No Color Convert
-Disables the color palette.  
-![no_convert](./image/no_convert.jpg)
-
-
-## decrease Color
-Decrease color.  
-Basically used with ``No Color Convert``.
-![decrease_color](./image/decrease.jpg)
-
-## threhsold
-Value of AnimeFilter (edge processing).  
-The smaller the value, the more edges are processed.  
-### threhsold 1
-Specifies the amount of edges.
-### threhsold 2
-Specifies the length of edges.
 
 # Experimental Features
 This is not an official feature yet, so there may be bugs or errors.  
