@@ -1,5 +1,6 @@
 # share-page
-Language : [English](README.md)/n 
+Language : [English](README.md)
+
 [share-page](https://share-page.streamlit.app)
 
 # Some functions
