@@ -6,9 +6,6 @@ Language : [English](README.md)
 # Some functions
 
 # colorpallet
-This site converts colors.  
-Select the color palette to use when converting colors.  
-
 
 # ratio
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
@@ -16,9 +13,6 @@ This is a slider that can be adjusted in increments of 0.01. The lower the numbe
 # Custom Pallet
 You can create your own ColorPallet.  
 
-![Custom pallet](./image/custom.png)
-
-# Experimental Features
-This is not an official feature yet, so there may be bugs or errors.  
+ 
 
 
