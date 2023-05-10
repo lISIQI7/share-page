@@ -22,6 +22,4 @@ You can create your own ColorPallet.
 # Experimental Features
 This is not an official feature yet, so there may be bugs or errors.  
 
-# Join
-
 
