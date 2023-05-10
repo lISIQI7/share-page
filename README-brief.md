@@ -1,7 +1,9 @@
 # share-page
 
 Thanks to akazdayo akaz.
+
 That is great.
+
 Language : [English](README.md)  
 
 # Explore entrance
