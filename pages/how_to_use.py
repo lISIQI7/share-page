@@ -9,7 +9,9 @@ st.set_page_config(
 st.markdown("""
 # share-page
 Language : [English]
+
 LICENSE: : Modifications copyright (C) 2023 AKAZ and LISIQI7
+
 Fascinating tool to convert images into pixel art!\n
 Playground : [open it](https://tensorspace.org/html/playground/lenet.html).  
 
