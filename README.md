@@ -10,7 +10,7 @@ This is a great work, thanks to the original author.
 
 Language  : [English](README.md)
 
-web app   : [pixelart-converter](https://pixelart.streamlit.app)
+Web app   : [pixelart-converter](https://pixelart.streamlit.app)
 
 Web app   : [share-page](https://share-page.streamlit.app)
 
