@@ -14,7 +14,7 @@ web app   : [pixelart-converter](https://pixelart.streamlit.app)
 
 Web app   : [share-page](https://share-page.streamlit.app)
 
-LICENSE   : Modifications copyright (C) 2023 AKAZ
+LICENSE   : Modifications copyright (C) 2023 AKAZ and LISIQI7
 
 
 
