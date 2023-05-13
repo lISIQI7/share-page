@@ -7,14 +7,14 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 st.markdown("""
-# Share-page
+## Share-page
 Language : [English]\n
 LICENSE  : Modifications copyright (C) 2023 AKAZ and LISIQI7\n
 Fascinating tool to convert images into pixel art!\n
 Playground  [open it](https://tensorspace.org/html/playground/lenet.html) 
 
 
-# Basic functions
+## Basic functions
 
 ### ✨colorpallet
 This site converts colors.\n  
@@ -29,7 +29,7 @@ This is a slider that can be adjusted in increments of 0.01. The lower the numbe
 
 You can create your own ColorPallet.  
  
-# More options
+## More options
 Return to akaz [📨](https://pixelart.streamlit.app/how_to_use)
  
 """)
