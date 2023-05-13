@@ -16,16 +16,16 @@ Playground  [open it](https://tensorspace.org/html/playground/lenet.html)
 
 # Basic functions
 
-### colorpallet
+### 1️⃣colorpallet
 This site converts colors.\n  
 Select the color palette to use when converting colors.\n  
 Pyxel color  [Try it](https://sophisticated-palette.streamlit.app/).  
 
-### ratio
+### 2️⃣ratio
 
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
 
-### custom pallet
+### 3️⃣custom pallet
 
 You can create your own ColorPallet.  
  
