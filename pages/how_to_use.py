@@ -17,8 +17,8 @@ Playground  [open it](https://tensorspace.org/html/playground/lenet.html)
 # Basic functions
 
 ### colorpallet
-This site converts colors.  
-Select the color palette to use when converting colors.  
+This site converts colors.\n  
+Select the color palette to use when converting colors.\n  
 Pyxel color  [Try it](https://sophisticated-palette.streamlit.app/).  
 
 ### ratio
