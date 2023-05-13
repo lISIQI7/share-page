@@ -25,11 +25,11 @@ Pyxel color  [Try it](https://sophisticated-palette.streamlit.app/).
 
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
 
-### Custom Pallet
+### custom pallet
 
 You can create your own ColorPallet.  
  
-# More Options
+# more options
 Return to akaz [📨](https://pixelart.streamlit.app/how_to_use)
  
 """)
