@@ -16,19 +16,18 @@ Playground  [open it](https://tensorspace.org/html/playground/lenet.html)
 
 # basic functions
 
-## colorpallet
+### colorpallet
 This site converts colors.  
 Select the color palette to use when converting colors.  
 Pyxel color  [Try it](https://sophisticated-palette.streamlit.app/).  
 
-## ratio
+### ratio
 
 This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
 
-## Custom Pallet
+### Custom Pallet
 
 You can create your own ColorPallet.  
-
  
 # More Options
 Return to akaz [📨](https://pixelart.streamlit.app/how_to_use)
