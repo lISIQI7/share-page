@@ -30,6 +30,6 @@ This is a slider that can be adjusted in increments of 0.01. The lower the numbe
 You can create your own ColorPallet.  
  
 ## More options
-Return to akaz [📨](https://pixelart.streamlit.app/how_to_use)
+Return to akaz [send📨](https://pixelart.streamlit.app/how_to_use)
  
 """)
