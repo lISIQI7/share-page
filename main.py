@@ -146,7 +146,7 @@ class Web():
         with st.expander("Experimental Features"):
             self.experimental()
 
-        st.write("Explore [entrance](https://editcolor.streamlit.app/)")
+        st.write("Explore")
         st.write("LICENSE : Modifications copyright (C) 2023 AKAZ and LISIQI7")
 
     def share(self):
